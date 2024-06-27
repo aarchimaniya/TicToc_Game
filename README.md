@@ -23,4 +23,9 @@ Welcome to the Tic Tac Toe Game App! This is a simple yet fun Tic Tac Toe game w
 confict: Handles game conflicts and ensures a fair play.
 To install these dependencies, make sure to run flutter pub get.
 
-## 
+## Instruction:
+No Copying: Do not copy code or any other content from your classmates or any other source. Plagiarism is strictly prohibited and can result in severe consequences, including academic penalties. Ensure that all the code and content in your project are original and properly attributed to the appropriate sources, if applicable.
+
+## Images:
+
+
