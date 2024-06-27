@@ -1,16 +1,26 @@
-# tic_tacto
+# Tic Tac Toe Game App
 
-A new Flutter project.
+Welcome to the Tic Tac Toe Game App! This is a simple yet fun Tic Tac Toe game where two players can play against each other. The app also keeps track of the winner list.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Play Tic Tac Toe with a friend
+- Simple and intuitive user interface
+- Keeps track of the winner list
+- Uses the `confict` package for handling game conflicts
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Open the app and you will be presented with a Tic Tac Toe board.
+- Players take turns to place their marks (X or O) on the board.
+- The game will declare a winner when one player gets three marks in a row, column, or diagonal.
+- The winner list will be updated accordingly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+
+- This app uses the following Dart packages:
+
+confict: Handles game conflicts and ensures a fair play.
+To install these dependencies, make sure to run flutter pub get.
+
+## 
